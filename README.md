@@ -1,1 +1,1 @@
-# enterprise-resource-planning
+# fcc-relational-database-course
